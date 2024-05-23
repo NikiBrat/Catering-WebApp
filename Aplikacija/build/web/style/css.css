@@ -1,0 +1,213 @@
+
+body {
+    background-color: #FFBD59; /* narandzasta */
+}
+
+label {
+    color: #152349; /* tamno plava */
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+.label{
+    color: #152349;
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+.debljina{
+    font-size: 15px;
+    color: #FFBD59;
+}
+
+.text{
+    color: #152349;
+    font-size: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.centrirano {
+    padding: 0px;
+    padding-left: 0px;
+}
+
+.dropdown-menu,.dropdown-item,.dropdown-divider {
+    background-color: #152349; /* tamno plava */
+    color: #FFBD59;
+}
+
+.jumbotron{
+    background-color: #152349;
+    padding: 2rem 1rem;
+    margin: auto;
+    border-radius: 0.3rem;
+    width: 310px;
+}
+
+.btn-succes{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color:greenyellow;
+}
+
+.btn-delete{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color:red;
+}
+
+.btn-change{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color:yellow;
+}
+
+.btn-details{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color:aqua;
+}
+
+.btn-details-info{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color:aqua;
+}
+
+.btn-close{
+    border: 5px solid #152349;
+    background-color: #152349;
+    color: red;
+}
+
+.btn-dropdown{
+    background-color: #152349;
+    color:#FFBD59;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.ispisInfo {
+    text-align: center;
+}
+
+
+.table{
+    background-color: #152349;
+    border-color: #152349;
+    border-width: 2px;
+    color: #152349;
+}
+
+th{
+    font-size: 20px;
+}
+
+.table-bordered td, .table-bordered th{
+    border-color: #152349;
+    border-width: 2px;
+    color: #FFBD59;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.card-footer{
+    clear: left;
+}
+.row1{
+    float: left;
+    margin: 10px 0px 30px 15px;
+
+}
+
+.neuspeh {
+    color: red;
+}
+
+.neuspeh {
+    background-color: red;
+}
+
+.opasno:hover {
+    background-color: #c71e1e;
+}
+
+.warning {
+    color: orange;
+}
+
+.success {
+    color: green;
+}
+
+.uspeh {
+    color: green;
+    background-color: #41b341;
+}
+
+.uspeh:hover {
+    color: white;
+    background-color: #128b12;
+}
+
+.info {
+    color: blue;
+}
+
+.ispisInfo{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.ispis{
+    text-align: center;
+}
+.dugme{
+    margin-top: 10px;
+}
+
+.badge {
+    background-color: #1954f6; /* tamno plava */
+}
+
+.jumbotron{
+    padding: 2rem 1rem;
+    margin-bottom: 2rem; 
+    border-radius: 0.3rem;
+}
+
+.bg-primary {
+    background-color: #152349 !important; /* tamno plava */
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link
+{
+    color: #FFBD59; /* narandzasta */
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    background-color: #17426f;
+}
+
+.navbar-dark,.navbar-nav,.nav-link
+{
+    color: #FFBD59; /* narandzasta */
+}
+
+.navbar-dark .navbar-brand
+{
+    color: #FFBD59;  /* narandzasta */
+}
+
+.boja{
+    color:#152349; /* tamno plava */
+}
